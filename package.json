@@ -2,8 +2,10 @@
   "name": "redux-bank-app",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "App.js",
   "dependencies": {
+    "react": "^15.4.1",
+    "react-dom": "^15.4.1",
     "redux": "^3.6.0"
   },
   "devDependencies": {},
